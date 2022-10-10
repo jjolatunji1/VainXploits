@@ -1,6 +1,6 @@
 
 
-# <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hello there, I a Vain, welcome to my GitHub page. </p>
+# <p align = "center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hello there, I am Vain, welcome to my GitHub page. </p>
 <p align="center">
 </p>
 
