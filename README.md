@@ -4,7 +4,7 @@
 <p align="center">
 </p>
 
-- 🔭 I’m currently studying for my eJPT and building a really cool tool I'll soon make public 😉
+- 🔭 I’m currently studying for my eJPT and building a really cool tool, I'll make it public soon 😉
 - 👀 I’m interested in Cybersecurity and Programming
 - 🌱 I’m currently learning Windows privilege escalaton
 - 📫 You can reach out to me on
